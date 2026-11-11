@@ -1,0 +1,112 @@
+# Visual Studio Code
+.vscode/
+.vscode-test/
+*.code-workspace
+.history/
+
+# Visual Studio 2022 user data and caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+*.opendb
+*.sdf
+*.opensdf
+*.ncb
+ipch/
+Generated Files/
+
+# Visual Studio build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bin/
+obj/
+out/
+*.ilk
+*.pdb
+*.idb
+*.obj
+*.pch
+*.res
+*.aps
+*.iobj
+*.ipdb
+*.tlog
+*.lastbuildstate
+*.buildlog
+*.log
+*.exe
+*.dll
+*.lib
+*.exp
+TestResults/
+[Tt]est[Rr]esult*/
+coverage/
+*.coverage
+*.coveragexml
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Testing/
+
+# JetBrains IDEs
+.idea/
+.fleet/
+*.iml
+*.iws
+*.ipr
+cmake-build-*/
+
+# Text and rich-text documents
+*.[Tt][Xx][Tt]
+*.[Rr][Tt][Ff]
+
+# Microsoft Word documents
+*.[Dd][Oo][Cc]
+*.[Dd][Oo][Cc][Xx]
+*.[Dd][Oo][Cc][Mm]
+*.[Dd][Oo][Tt]
+*.[Dd][Oo][Tt][Xx]
+*.[Dd][Oo][Tt][Mm]
+
+# Microsoft Excel documents
+*.[Xx][Ll][Ss]
+*.[Xx][Ll][Ss][Xx]
+*.[Xx][Ll][Ss][Mm]
+*.[Xx][Ll][Ss][Bb]
+*.[Xx][Ll][Tt]
+*.[Xx][Ll][Tt][Xx]
+*.[Xx][Ll][Tt][Mm]
+
+# Microsoft PowerPoint documents
+*.[Pp][Pp][Tt]
+*.[Pp][Pp][Tt][Xx]
+*.[Pp][Pp][Tt][Mm]
+*.[Pp][Oo][Tt]
+*.[Pp][Oo][Tt][Xx]
+*.[Pp][Oo][Tt][Mm]
+*.[Pp][Pp][Ss]
+*.[Pp][Pp][Ss][Xx]
+*.[Pp][Pp][Ss][Mm]
+
+# PDF and OpenDocument files
+*.[Pp][Dd][Ff]
+*.[Oo][Dd][Tt]
+*.[Oo][Dd][Ss]
+*.[Oo][Dd][Pp]
+
+# Office temporary lock files
+~$*
+.~lock.*#
